@@ -28,7 +28,7 @@
 
 :crossed_swords: - [Realización de una carta](https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas)
 
-:shinto_shrine: - [GIT!]()
+:shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 

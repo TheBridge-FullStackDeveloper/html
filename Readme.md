@@ -26,33 +26,31 @@
 
 :scroll: - [Etiquetas de formato de texto, listas y comentarios](texto.md)
 
-:crossed_swords: - [Realización de una carta](pp/cartas/readme.md)
+:crossed_swords: - [Realización de una carta](https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas)
 
 :shinto_shrine: - [GIT!]()
 
-:european_castle: - [Página personal]()
+:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 ### Miércoles
 
 :scroll:  - [Enlaces](referencias_tablas_multimedia.md)
 
-:crossed_swords: -  [Página web de un gimnasio](pp/gimnasio/readme.md)
+:crossed_swords: -  [Página web de un gimnasio](https://github.com/TheBridge-FullStackDeveloper/html-pp-gimnasio)
 
-:shinto_shrine: - [Ejercicio con Emmet](kata/emmet1/readme.md)
+:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
 
-:european_castle: - [Página personal]()
+:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 ### Jueves
 
 :scroll: - [Formularios](formularios.md)
 
-:crossed_swords: - [Denuncia robo de bicicleta en apocalipsis zombi]()
+:crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-:crossed_swords: - [Club de la tercera edad](pp/formularios/readme.md)
+:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet2)
 
-:shinto_shrine: - [Ejercicio con Emmet](kata/emmet2/readme.md)
-
-:european_castle: - [Página personal]()
+:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 ### Viernes
 
@@ -62,8 +60,8 @@
 
 :scroll: - [Atributos](accesibilidad.md)
 
-:crossed_swords: - [Informe de accesibilidad]()
+:crossed_swords: - [Informe de accesibilidad](https://github.com/TheBridge-FullStackDeveloper/html-pp-informe-accesibilidad)
 
-:shinto_shrine: - [Ejercicio con Emmet](kata/emmet3/readme.md)
+:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet3)
 
-:european_castle: - [Página personal]()
+:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)

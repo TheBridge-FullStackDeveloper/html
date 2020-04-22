@@ -4,7 +4,7 @@
 
 ### Texto ###
 
-[Cabeceras](https://www.w3schools.com/html/html_headings.asp)
+[Encabezados](https://www.w3schools.com/html/html_headings.asp)
 
 [Párrafos](https://www.w3schools.com/html/html_paragraphs.asp)
 

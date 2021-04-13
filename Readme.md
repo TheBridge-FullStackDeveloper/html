@@ -18,11 +18,12 @@
 
 ## Precurso - Semana HTML
 
-### Lunes
+<!-- ### Lunes
 
-:gear: Editor de texto
+:gear: Editor de texto -->
 
-###  Martes
+<!-- ###  Martes -->
+###  Etiquetas de formato de texto, listas y comentarios
 
 :scroll: - [Etiquetas de formato de texto, listas y comentarios](texto.md)
 
@@ -32,7 +33,8 @@
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
-### Miércoles
+<!-- ### Miércoles -->
+### Enlaces
 
 :scroll:  - [Enlaces](referencias_tablas_multimedia.md)
 
@@ -42,7 +44,8 @@
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
-### Jueves
+<!-- ### Jueves -->
+### Formularios
 
 :scroll: - [Formularios](formularios.md)
 
@@ -52,7 +55,8 @@
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
-### Viernes
+<!-- ### Viernes -->
+### Accesibilidad
 
 :gear: Wave
 

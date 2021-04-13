@@ -34,7 +34,7 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 <!-- ### Miércoles -->
-### Enlaces
+### Enlaces, tablas y etiquetas multimedia
 
 :scroll:  - [Enlaces](referencias_tablas_multimedia.md)
 
@@ -45,7 +45,7 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 <!-- ### Jueves -->
-### Formularios
+### Formularios y etiquetas semánticas
 
 :scroll: - [Formularios](formularios.md)
 
@@ -56,7 +56,7 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 <!-- ### Viernes -->
-### Accesibilidad
+### Accesibilidad y atributos
 
 :gear: Wave
 

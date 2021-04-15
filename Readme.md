@@ -10,8 +10,6 @@
 
 :shinto_shrine: - Kata
 
-:european_castle: - Proyecto
-
 :gear: - Instalación
 
 ## Requisitos
@@ -31,7 +29,6 @@
 
 :shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 <!-- ### Miércoles -->
 ### Enlaces, tablas y etiquetas multimedia
@@ -42,7 +39,6 @@
 
 :shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 <!-- ### Jueves -->
 ### Formularios y etiquetas semánticas
@@ -53,7 +49,6 @@
 
 :shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet2)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 <!-- ### Viernes -->
 ### Accesibilidad y atributos
@@ -68,4 +63,3 @@
 
 :shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet3)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
